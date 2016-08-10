@@ -1,5 +1,5 @@
 # kue-bonecp
 
-Adds bonecp support to Kue apps.
+Adds [BoneCP](http://www.jolbox.com/) support to Kue apps.
 
 For full documentation see https://github.com/kue-framework/kue.
